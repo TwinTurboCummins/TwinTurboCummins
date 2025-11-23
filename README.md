@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twinturbocummins&label=Profile%20views&color=0e75b6&style=flat" alt="twinturbocummins" /> </p>
 
-- 🔭 I’m currently working on [SRT](https://github.com/TwinTurboCummins/SRT)
-
 - 📫 How to reach me **Discord @TwinTurboCummins**
 
 - ⚡ Fun fact **I like cars**
